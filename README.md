@@ -1,1 +1,1 @@
-# The Self-Taught Programmer's Ultimate Guide To Ruby (and Rails)
+# The Self-Taught Programmer's Guide To Ruby (and Rails)
